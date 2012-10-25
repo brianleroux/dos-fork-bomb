@@ -1,0 +1,20 @@
+{
+  "name": "dos-fork-bomb",
+  "version": "1.0.0",
+  "description": "Your friendly Fork Bomb DoS attack module.",
+  "main": "bomb.js",
+  "scripts": {
+    "test": "node bomb.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/brianleroux/dos-fork-bomb"
+  },
+  "keywords": [
+    "DoS",
+    "Fork",
+    "Bomb"
+  ],
+  "author": "brianleroux",
+  "license": "WTFPL"
+}
